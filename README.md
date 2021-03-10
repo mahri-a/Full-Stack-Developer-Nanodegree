@@ -24,8 +24,6 @@ Tech stack:
 * PostgreSQL database
 * Flask-CORS to handle cross origin requests from the frontend server
 * React-based frontend (provided by Udacity)
-* unittest 
-* curl
 
 ## [Project 3: Identity Access Management](https://github.com/mahri-a/Full-Stack-Developer-Nanodegree/tree/main/03_coffee_shop_full_stack)
 
@@ -39,7 +37,6 @@ Tech stack:
 * jose (JavaScript Object Signing and Encryption) for encoding, decoding, and verifying JWTS
 * Auth0 for authentication and defining roles and permissions
 * Ionic-based frontend (provided by Udacity)
-* Postman
 
 ## [Project 4: Deploying a Flask App to Kubernetes Using EKS](https://github.com/mahri-a/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS)
 
@@ -60,6 +57,4 @@ Tech stack:
 * SQLALchemy ORM
 * PostgreSQL database
 * Auth0
-* unittest
-* curl
 * Heroku
