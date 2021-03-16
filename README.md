@@ -8,8 +8,8 @@ I built out the data models and database for a musical venue and artist booking 
 Tech stack:
 * Python 3
 * Flask
-* SQLALchemy ORM
-* PostgreSQL database
+* SQLAlchemy
+* PostgreSQL
 * Flask-Migrate for creating and running schema migrations
 * HTML, CSS, and Javascript with Bootstrap 3 (provided by Udacity)
 
@@ -20,8 +20,8 @@ I was given a set of data models and the front end for a trivia game application
 Tech stack:
 * Python 3
 * Flask
-* SQLAlchemy ORM
-* PostgreSQL database
+* SQLAlchemy
+* PostgreSQL
 * Flask-CORS to handle cross origin requests from the frontend server
 * React-based frontend (provided by Udacity)
 
@@ -32,7 +32,7 @@ I built the backend for a coffee shop application to allow users to login throug
 Tech stack:
 * Python 3
 * Flask
-* SQLite database
+* SQLite
 * SQLAlchemy and Flask-SQLAlchemy
 * jose (JavaScript Object Signing and Encryption) for encoding, decoding, and verifying JWTS
 * Auth0 for authentication and defining roles and permissions
@@ -54,7 +54,7 @@ As my final project, I built an API for a hypothetical casting agency. It implem
 Tech stack:
 * Python 3
 * Flask
-* SQLALchemy ORM
-* PostgreSQL database
+* SQLAlchemy
+* PostgreSQL
 * Auth0
 * Heroku
